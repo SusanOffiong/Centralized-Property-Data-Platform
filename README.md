@@ -78,7 +78,7 @@ Dashboard screenshots used in this project.
 📁 **reports**
 
 - Centralized Property Data Platform Report (PDF)
-- Project Presentation (PDF)
+- Project Team Presentation Slide (PDF)
 
 ---
 

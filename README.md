@@ -1,4 +1,4 @@
-# Centralized Property Data Platform
+# 🏢 Centralized Property Data Platform
 
 > **Business Intelligence Case Study | Real Estate Industry**
 
@@ -6,67 +6,59 @@
 
 # Project Overview
 
-This project was completed for a real estate company to improve how property information was accessed, analysed, and reported across the business.
+This project was part of a multidisciplinary analytics initiative for a real estate company aimed at improving business reporting and supporting predictive analytics.
 
-The company relied on data stored in its operational database but lacked a centralised reporting solution that provided stakeholders with timely and reliable business insights. My role was to extract relevant data from the company's database, transform it into meaningful information, and develop interactive dashboards that support better business decisions.
+Working as the Data Analyst on the team, I extracted data from the company's database, identified data quality challenges, cleaned and transformed the data, developed interactive Power BI dashboards, and delivered business insights that supported both operational decision-making and the predictive modelling work carried out by the Data Science team.
 
-The final solution provides management with a single source of truth for monitoring property operations and business performance.
+The project established a reliable reporting layer that became the foundation for advanced analytics across the wider project.
 
 ---
 
 # The Challenge
 
-The company needed a more efficient way to analyse property information and generate business reports.
+The company stored large amounts of operational property data, but the data was not immediately ready for business reporting or predictive analysis.
 
-Without a centralised reporting platform, it was difficult to:
+Several data quality and consistency issues needed to be addressed before meaningful analysis could be performed. Without reliable reporting and properly prepared data, stakeholders would struggle to make informed decisions, and the predictive modelling phase of the project would be less effective.
 
-- Access reliable business information quickly.
-- Monitor property performance.
-- Produce consistent reports for stakeholders.
-- Identify business trends.
-- Support operational decision-making with data.
-
-Management needed a reporting solution that could transform raw operational data into clear and actionable business insights.
+The objective was to transform raw operational data into trusted business information while preparing a reliable analytical foundation for the rest of the project team.
 
 ---
 
 # My Approach
 
-To address this challenge, I:
+To achieve this, I:
 
-- Extracted relevant data directly from the company's database using SQL.
-- Cleaned and transformed the data using Power Query.
+- Extracted relevant data from the company's database.
+- Investigated and identified data quality issues that could affect the project's outcomes.
+- Cleaned, transformed, and validated the data using Power Query.
 - Built an analytical data model in Power BI.
-- Created business KPIs using DAX.
-- Designed interactive dashboards for different stakeholders.
-- Analysed operational performance and identified business trends.
-- Presented practical recommendations to improve reporting and decision-making.
+- Developed business KPIs using DAX.
+- Designed interactive dashboards that answered key business questions.
+- Produced business insights and recommendations for stakeholders.
+- Delivered clean, structured datasets and reporting outputs that supported the Data Science team's predictive modelling activities.
 
 ---
 
 # The Solution
 
-The final solution was a centralized Business Intelligence dashboard that enables stakeholders to:
+The final solution delivered a centralized Business Intelligence platform that enabled stakeholders to:
 
-- Monitor property performance.
-- Track key operational metrics.
-- Analyse business trends.
-- Generate consistent management reports.
-- Explore data through interactive visualisations.
+- Monitor property operations.
+- Analyse key business metrics.
+- Explore trends through interactive dashboards.
+- Access consistent and reliable reporting.
 
-The dashboards provide decision-makers with faster access to business information and improve reporting efficiency across the organisation.
+Beyond business reporting, the project also produced clean, validated data that supported the predictive analytics phase of the wider project, enabling collaboration across Business Intelligence, Data Science, Business Analysis, and Project Management teams.
 
 ---
 
 # Business Impact
 
-The project transformed operational data into a centralized reporting solution that enables management to:
+This project delivered value across multiple areas of the organisation.
 
-- Access business information more efficiently.
-- Improve reporting consistency.
-- Monitor operational performance.
-- Identify trends more quickly.
-- Support data-driven business decisions.
+For business stakeholders, it improved reporting consistency and provided actionable insights that supported informed decision-making.
+
+For the wider project team, the cleaned and validated data, business insights, and reporting outputs provided a strong analytical foundation for predictive modelling and helped ensure the project progressed with reliable, high-quality data.
 
 ---
 
@@ -90,28 +82,15 @@ Dashboard screenshots used in this project.
 
 ---
 
-# About Me
+## Want to Learn More?
 
-I enjoy solving business problems with data.
+📄 The complete project report and presentation are available in the **reports** folder.
 
-Every project starts with one question:
-
-**"If I were the client, what information would help me make a better decision?"**
-
-That mindset guides how I analyse data, build dashboards, and communicate insights. My goal is not only to find answers but to present them in a way that decision-makers can easily understand and use.
-
----
-
-## Connect With Me
-
-**Portfolio**
-
+🌐 Portfolio  
 https://susanoffiong.github.io
 
-**LinkedIn**
-
+💼 LinkedIn  
 https://www.linkedin.com/in/susan-offiong/
 
-**Email**
-
+📧 Email  
 suepraise@yahoo.com

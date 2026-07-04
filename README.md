@@ -1,4 +1,4 @@
-# 🏢 Centralized Property Data Platform
+# Centralized Property Data Platform
 
 > **Business Intelligence Case Study | Real Estate Industry**
 
